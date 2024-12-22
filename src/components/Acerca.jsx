@@ -20,8 +20,8 @@ export const Acerca = () => {
                                 Valoro el trabajo en equipo y la comunicación efectiva, ya que creo que el trabajo colaborativo es esencial para lograr objetivos comunes. Estoy motivado por la oportunidad de marcar una diferencia y contribuir al éxito de proyectos que no solo son funcionales, sino también significativos.
                             </p>
                         </div>
-                        <div className="md:w-1/2 p-4">
-                            <img src={iaImage} alt="Imagen de Ronal Sánchez" className="rounded-lg shadow-lg" />
+                        <div className="md:w-2/5 p-4">
+                            <img src={iaImage} alt="Imagen de Ronal Sánchez" className="  rounded-lg shadow-lg" />
                         </div>
                     </div>
                 </aside>

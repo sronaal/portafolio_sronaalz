@@ -1,5 +1,6 @@
 import { Acerca } from "../components/Acerca"
 import { Banner } from "../components/Banner"
+import { Tecnologias } from "../components/Tecnologias"
 
 
 export const Layout = () => {
@@ -9,7 +10,8 @@ export const Layout = () => {
       <Banner/>
       <hr/>
       <Acerca/>
-
+      <hr/>
+      <Tecnologias/>
     </>
   )
 }

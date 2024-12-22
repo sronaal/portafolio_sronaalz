@@ -47,6 +47,8 @@ export const Banner = () => {
             <div className="flex justify-center md:ml-10">
                 <img src={yo} className="w-40 md:w-80 rounded-xl" />
             </div>
+
+            
         </aside>
     )
 }
